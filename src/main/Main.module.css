@@ -1,13 +1,13 @@
 .mainBlock {
     min-height: 100vh;
     border: 1px solid palevioletred;
-    background-color: pink;
+    background-color: #f1e2e5;
     padding: 15px;
 }
 
 .text {
     width: 300px;
-    background-color: #c6d4ee;
+    background-color: #d1dcf0;
     color: #459d9d;
 
 }
