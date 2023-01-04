@@ -1,0 +1,44 @@
+.containerContacts{
+    border: 1px solid green;
+    height: 100%;
+    width: 80%;
+    margin: 15px;
+
+}
+
+.footerBlock {
+    width: auto;
+    height: auto;
+    background-color: #f8f1b6;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.infoBlock{
+    width: 350px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+.text {
+    max-width: 200px;
+    background-color: #eab6be;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+.footer {
+    max-width: 200px;
+    background-color: #eab6be;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

@@ -1,0 +1,10 @@
+.nav{
+    width: 280px;
+    height: 30px;
+    display: flex;
+    justify-content:space-around;
+    border:1px solid blue;
+    background-color: #61dafb;
+    }
+
+
