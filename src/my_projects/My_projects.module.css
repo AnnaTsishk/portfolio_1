@@ -1,4 +1,4 @@
-.worksBlock {
+.projects_Block {
     min-height: 100vh;
     background-color: #b7edb7;
     padding: 15px;
@@ -11,12 +11,12 @@
 
 }
 
-.title_works {
+.title_project {
     background-color: rgba(0, 255, 221, 0.92);
     align-items: center;
     }
 
-.works {
+.project {
     border: 1px solid #459d9d;
     width: 100%;
     display: flex;

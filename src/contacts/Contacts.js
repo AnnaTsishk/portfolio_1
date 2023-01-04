@@ -11,8 +11,7 @@ function Contacts() {
 
                 </div>
 
-                <form>
-                    <div className={style.info}>
+                <form className={style.info}>
                         <label> name
                             <input className={style.input}/>
                         </label>
@@ -22,7 +21,7 @@ function Contacts() {
                         <label>additional Information
                             <textarea className={style.input}></textarea>
                         </label>
-                    </div>
+
                 </form>
 
 

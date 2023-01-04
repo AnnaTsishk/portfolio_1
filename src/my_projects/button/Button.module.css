@@ -1,0 +1,16 @@
+.container_Button .btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    border: 1px solid red;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
