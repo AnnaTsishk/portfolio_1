@@ -1,0 +1,25 @@
+.worksBlock {
+    min-height: 100vh;
+    background-color: #b7edb7;
+    padding: 15px;
+   }
+
+.skillsContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.title_works {
+    background-color: rgba(0, 255, 221, 0.92);
+    align-items: center;
+    }
+
+.works {
+    border: 1px solid #459d9d;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
