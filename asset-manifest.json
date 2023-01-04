@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AnnaTsishk/portfolio_1/static/css/main.39f73b90.css",
+    "main.js": "/AnnaTsishk/portfolio_1/static/js/main.0c857a00.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AnnaTsishk/portfolio_1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pic.png": "/AnnaTsishk/portfolio_1/static/media/pic.5ec2e60de19b068d2c65.png",
+    "index.html": "/AnnaTsishk/portfolio_1/index.html",
+    "main.39f73b90.css.map": "/AnnaTsishk/portfolio_1/static/css/main.39f73b90.css.map",
+    "main.0c857a00.js.map": "/AnnaTsishk/portfolio_1/static/js/main.0c857a00.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AnnaTsishk/portfolio_1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f73b90.css",
+    "static/js/main.0c857a00.js"
+  ]
+}
